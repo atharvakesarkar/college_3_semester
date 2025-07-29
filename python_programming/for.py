@@ -54,3 +54,8 @@ for letter in 'geeksforgeeks':
     if letter == 'e' or letter == 's':
         break
 print('current letter: ', letter)
+
+# pass statement
+for letter in 'geeksforgeeks':
+    pass
+print('last letter: ',letter)
