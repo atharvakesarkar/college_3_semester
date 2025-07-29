@@ -34,5 +34,13 @@ li = ["geeks","for","geeks"]
 for index in range (len(li)):
     print(li[index]) 
 
+# using else statement with loop in python
+li = ["geeks","for","geeks"]
+for index in range (len(li)):
+    print(li[index]) 
+else:
+    print("Inside the block")
+
+
 
 
