@@ -1,8 +1,8 @@
-# r: open and exisiting file for a read operation
-# w: open an exisitng file for a write operation
+# r: open an existing file for a read operation
+# w: open an existing file for a write operation
 # a: open an existing file for appending data
-# r+ : open and existing file for both reading and writing
-# w+ : opne an exisiting file for both writing and reading
+# r+ : open an existing file for both reading and writing
+# w+ : open an existing file for both writing and reading
 # a+  open an existing file for both appending and reading
 
 
@@ -11,7 +11,7 @@
 #     print(each)
 
 
-## this is the append methond and this is working on my python ide
+## this is the append method and this is working on my python ide
 # file = open("atharva.txt", "a")  # Open file in append mode
 # file.write("siidhi,niyati,om,adityabhau")  # This works fine
 # file.close()  # Always close the file after writing
