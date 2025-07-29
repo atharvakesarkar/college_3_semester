@@ -41,6 +41,11 @@ for index in range (len(li)):
 else:
     print("Inside the block")
 
+# using of continue statement
+for letter in "geeksforgeeks":
+    if letter == 'e' or letter == 's':
+        continue
+    print('current letter: ',letter)
 
 
 
