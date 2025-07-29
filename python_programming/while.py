@@ -11,3 +11,8 @@ while (count < 3):
     print("hello geek")
 else:
     print("In Else block")
+
+
+# infinte loop
+# while(True):
+#     print("I love you")
